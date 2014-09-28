@@ -1,7 +1,5 @@
 package com.nitish.poc;
 
-import org.jdesktop.swingx.MultiSplitLayout;
-
 import java.util.ArrayList;
 import java.util.List;
 
